@@ -1,0 +1,35 @@
+.row{   
+    background-color:#BBCCC4;
+    color:#333333;
+    font-size:20px;
+}
+.footer{
+        display: flex;
+	justify-content: space-around;
+    }
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:#DDFFE9;
+    color:#333333;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;    display: flex;
+	justify-content: center;
+}
+body{
+    background:#DDFFE9;
+}
+.Information{
+    display: flex;
+	justify-content: center;
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    font-weight:100;
+}
+.main{
+        display: flex;
+	justify-content: center;
+}
