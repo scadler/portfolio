@@ -19,9 +19,11 @@
     margin-top:5px;
     margin-bottom:5px;    display: flex;
 	justify-content: center;
+	background-image: url("https://www.transparenttextures.com/patterns/snow.png");
 }
 body{
     background:#DDFFE9;
+    background-image: url("https://www.transparenttextures.com/patterns/snow.png");
 }
 .Information{
     display: flex;
