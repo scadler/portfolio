@@ -2,27 +2,30 @@
     background-color:#BBCCC4;
     color:#333333;
     font-size:20px;
+    background-image: url("https://www.transparenttextures.com/patterns/snow.png");
 }
 .footer{
-        display: flex;
+    display: flex;
 	justify-content: space-around;
+	border: 1px solid black;
+	background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
     }
 .headshot{
     width:20%;
-   
 }
 .mid{
-    background-color:#DDFFE9;
+    background-color:#B5FFCF;
     color:#333333;
     align-items:center;
     font-size:50px;
     margin-top:5px;
-    margin-bottom:5px;    display: flex;
+    margin-bottom:5px;    
+    display: flex;
 	justify-content: center;
-	background-image: url("https://www.transparenttextures.com/patterns/snow.png");
 }
 body{
-    background:#DDFFE9;
+    padding-top: 5px;
+    background:#B5FFCF;
     background-image: url("https://www.transparenttextures.com/patterns/snow.png");
 }
 .Information{
@@ -32,6 +35,10 @@ body{
     font-weight:100;
 }
 .main{
-        display: flex;
+    display: flex;
 	justify-content: center;
+}
+.newDiv{
+    padding: 5px;
+    border: 1px solid grey;
 }
